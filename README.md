@@ -1,4 +1,4 @@
-# Store-Billing-System
+# Store Billing System
 
 This project is built to help stores calculate and display bills and serve the customer in a faster and efficient manner.
 
